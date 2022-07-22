@@ -1,0 +1,37 @@
+* {
+    font-family: Verdana, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    background-color: #e2c1be;
+    color: #894b5d;
+    margin: 50px;    
+    align-content: center;
+    align-self: center;
+    text-align: center;
+}
+
+div.homepage {
+    text-align: center;
+    align-content: center;
+}
+
+div.homepage.text {
+    margin: 20px;
+}
+
+div.recipe.text {
+    align-self: center;
+    max-width: 400px;
+    margin: auto;
+    text-align: justify;
+}
+
+img {
+    height: auto;
+    max-width: 400px;
+}
