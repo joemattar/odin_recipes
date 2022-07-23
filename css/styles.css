@@ -31,17 +31,17 @@ div.homepage {
 }
 
 div.homepage.text {
-    margin: 20px;
+    font-size: 150%;
 }
 
 div.recipe.text {
     align-self: center;
-    max-width: 400px;
+    max-width: 600px;
     margin: auto;
     text-align: justify;
 }
 
 img {
     height: auto;
-    max-width: 400px;
+    max-width: 600px;
 }
