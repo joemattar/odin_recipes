@@ -1,5 +1,15 @@
+@font-face {
+    font-family: Mjolnir;
+    src: url(../fonts/Mjolnir.ttf);
+}
+
+@font-face {
+    font-family: Connemara;
+    src: url(../fonts/ConnemaraOldStylePro-Bold.ttf);
+}
+
 * {
-    font-family: Verdana, sans-serif;
+    font-family: Mjolnir, Verdana, sans-serif;
 }
 
 a {
